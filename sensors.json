@@ -1,15 +1,1 @@
-{
-  "title": "The Ishanvi suna's Guide to the Galaxy",
-  "author": "Douglas Adams",
-  "publicationYear": 1980,
-  "genres": ["Science Fiction", "Comedy"],
-  "available": true,
-  "publisher": {
-    "name": "Pan Books",
-    "location": "London"
-  },
-  "chapters": [
-    {"title": "Chapter 1", "pages": 15},
-    {"title": "Chapter 2", "pages": 20}
-  ]
-}
+{"flame":0,"humidity":58.9,"motion":0,"mq135":31,"mq2":746,"risk_status":"LOW","temperature":27.1}
